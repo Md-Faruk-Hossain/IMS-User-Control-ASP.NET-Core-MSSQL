@@ -1,0 +1,25 @@
+﻿
+<div class="form-group row mb-1 single-product-data">
+
+    <label class="col-form-label col-1">Product</label>
+    <div class="col-4">            
+
+        <select name="SingleProductId" asp-items="@( (ViewBag.products) is SelectList ? ViewBag.products : new SelectList(ViewBag.products, "ProductId", "ProductName") )" class="form-control singleProductDropdown">
+            <option value="" selected>---Select---</option>
+        </select>
+    </div>
+
+    <label class="col-form-label col-1">Quantity</label>
+    <div class="col-2">
+        <input type="number" name="SingleProductQuantity" class="form-control" value="1" />
+    </div>
+
+    <label class="col-form-label col-1">Price</label>
+    <div class="col-2">
+        @Html.TextBox("SingleProductPrice", "", new { @class = "form-control product-price", @readonly = true })
+    </div>
+    <div class="col-1">
+        <button type="button" class="btn btn-outline-danger btn-sm single-product-delete"><i class="fa fa-trash"></i></button>
+    </div>
+
+</div>

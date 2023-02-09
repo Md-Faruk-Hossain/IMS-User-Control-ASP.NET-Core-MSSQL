@@ -1,0 +1,92 @@
+﻿@model spa_core_final_project.ViewModels.ProductVM
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="row">
+    <div class="col">
+        <form id="ProductAddForm">
+            <h2>Add New Product</h2>
+
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group row row mb-2">
+                <label asp-for="ProductName" class="col-form-label col-2"></label>
+                <div class="col-6">
+                    <input asp-for="ProductName" class="form-control" />
+                </div>
+                <div class="col-4">
+                    <span asp-validation-for="ProductName" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row mb-2">
+                <label asp-for="CategoryId" class="col-form-label col-2"></label>
+                <div class="col-6">
+                    <select asp-for="CategoryId" asp-items="ViewBag.categories" class="form-control">
+                        <option selected>---Select---</option>
+                    </select>
+                </div>
+                <div class="col-4">
+                    <span asp-validation-for="CategoryId" class="text-danger"></span>
+                </div>
+            </div>
+
+
+            <div class="form-group row mb-2">
+                <label asp-for="Price" class="col-form-label col-2"></label>
+                <div class="col-6">
+                    <input asp-for="Price" class="form-control" />
+                </div>
+                <div class="col-4">
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row mb-2">
+                <label asp-for="SKUCode" class="col-form-label col-2"></label>
+                <div class="col-6">
+                    <input asp-for="SKUCode" class="form-control" />
+                </div>
+                <div class="col-4">
+                    <span asp-validation-for="SKUCode" class="text-danger"></span>
+                </div>
+            </div>
+
+
+            <div class="form-group row mb-2">
+                <label asp-for="EntryDate" class="col-form-label col-2"></label>
+                <div class="col-6">
+                    <input type="date" asp-for="EntryDate" asp-format="{0:yyyy-MM-dd}" class="form-control" />
+                </div>
+                <div class="col-4">
+                    <span asp-validation-for="EntryDate" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row mb-2">
+                <label asp-for="Picture" class="col-form-label col-2"></label>
+                <div class="col-6">
+                    <input type="file" asp-for="Picture" class="form-control" />
+                </div>
+                <div class="col-4">
+                    <span asp-validation-for="Picture" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="InStock" /> @Html.DisplayNameFor(model => model.InStock)
+                </label>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-10 offset-2">
+                    <button type="submit" data-category="CRUD" id="btnProductCreateFormSubmit" data-href="@Url.Action("Create","Products")" class="btn btn-primary"><i class="fa fa-save"></i> Save</button>
+                    <div id="msg-CreateProduct"></div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

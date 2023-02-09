@@ -1,0 +1,349 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\spa_core_final_project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\spa_core_final_project.bundle.scp.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\Images\\1cbdd3c4-7a74-4ba6-aa2c-673702b062fc.png",
+      "PackagePath": "staticwebassets\\Images\\1cbdd3c4-7a74-4ba6-aa2c-673702b062fc.png"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\Images\\37540d75-d9a6-48f2-b5a9-296cf30bb475.jpg",
+      "PackagePath": "staticwebassets\\Images\\37540d75-d9a6-48f2-b5a9-296cf30bb475.jpg"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\Images\\4fb5b7a0-7b8a-41ff-9f70-316246b38d34.jpg",
+      "PackagePath": "staticwebassets\\Images\\4fb5b7a0-7b8a-41ff-9f70-316246b38d34.jpg"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\Images\\50c96b92-9562-4630-a843-7add270a1115.png",
+      "PackagePath": "staticwebassets\\Images\\50c96b92-9562-4630-a843-7add270a1115.png"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\Images\\60e1ad2f-8592-447c-a46c-c90c3ea55792.jpg",
+      "PackagePath": "staticwebassets\\Images\\60e1ad2f-8592-447c-a46c-c90c3ea55792.jpg"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\Images\\6164a4f5-6ad1-4898-a0ac-11f0ca58365b.jpg",
+      "PackagePath": "staticwebassets\\Images\\6164a4f5-6ad1-4898-a0ac-11f0ca58365b.jpg"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\Images\\73894353-48db-4f03-a45d-1c1ad2e7868f.jpg",
+      "PackagePath": "staticwebassets\\Images\\73894353-48db-4f03-a45d-1c1ad2e7868f.jpg"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\Images\\8b875b3e-7488-4efd-a85e-caabce9bc485.jpg",
+      "PackagePath": "staticwebassets\\Images\\8b875b3e-7488-4efd-a85e-caabce9bc485.jpg"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\Images\\964a9607-9bed-45a0-b3c6-cd2a5b452ba0.png",
+      "PackagePath": "staticwebassets\\Images\\964a9607-9bed-45a0-b3c6-cd2a5b452ba0.png"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\Images\\default.jpg",
+      "PackagePath": "staticwebassets\\Images\\default.jpg"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\css\\FloatingMessage.css",
+      "PackagePath": "staticwebassets\\css\\FloatingMessage.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\js\\FloatingMessage.js",
+      "PackagePath": "staticwebassets\\js\\FloatingMessage.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\font-awesome\\css\\font-awesome.css.map",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\SPA_Core_MasterDetails\\SPA_Core_MasterDetails\\spa-masterdetail\\spa_core_final_project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.spa_core_final_project.props",
+      "PackagePath": "build\\spa_core_final_project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.spa_core_final_project.props",
+      "PackagePath": "buildMultiTargeting\\spa_core_final_project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.spa_core_final_project.props",
+      "PackagePath": "buildTransitive\\spa_core_final_project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.spa_core_final_project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

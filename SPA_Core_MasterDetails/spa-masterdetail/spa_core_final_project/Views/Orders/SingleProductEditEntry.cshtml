@@ -1,0 +1,23 @@
+﻿
+@model spa_core_final_project.Models.OrderDetail
+
+<tr>
+    <td>
+        <select asp-for="ProductId" asp-items="ViewBag.products" class="form-control singleProductEditDropdown">
+            <option value="" selected>---Select---</option>
+        </select>
+    </td>
+
+    <td>
+        <input type="number" asp-for="Quantity" class="form-control" value="1" />
+    </td>
+
+    <td class="singleProductEditPrice">
+        0.0000
+    </td>
+
+    <td>
+        <button type="button" class="btn btn-outline-danger btn-sm single-product-edit-delete"><i class="fa fa-trash"></i></button>
+    </td>
+
+</tr>

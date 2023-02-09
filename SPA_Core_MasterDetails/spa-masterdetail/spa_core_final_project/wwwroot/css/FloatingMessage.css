@@ -1,0 +1,64 @@
+
+    body button {
+        float: right;
+    }
+
+    body #floating-message-container {
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        width: 500px;
+        height: auto;
+        padding: 10px;
+        z-index: 999;
+    }
+
+    body #floating-message-container .floating-message {
+        display: flex;
+        border-radius: 5px;
+        background-color: rgba(255, 255, 255, 0.8);
+        border: 1px solid rgba(0, 0, 0, 0.1);
+        z-index: 1000;
+        margin-bottom: 10px;
+        color: #414141;
+        justify-content: space-between;
+        align-items: center;
+        box-shadow: 0 5px 15px -5px rgba(0, 0, 0, 0.5);
+    }
+
+    body #floating-message-container .floating-message.error i {
+        color: #414266;
+    }
+
+    body #floating-message-container .floating-message i {
+        flex-basis: 20%;
+        padding: 16px 6px;
+        font-size: 64px;
+        text-align: center;
+        align-self: flex-start;
+    }
+
+    body #floating-message-container .floating-message a {
+        align-self: flex-start;
+        padding: 2px 4px 0 0;
+        cursor: pointer;
+        text-decoration: none;
+    }
+
+    body #floating-message-container .floating-message .msg-body {
+        flex-basis: 78%;
+        padding: 16px;
+    }
+
+    body #floating-message-container .floating-message .msg-body h3, body #floating-message-container .floating-message .msg-body p {
+        margin: 0;
+    }
+
+    body #floating-message-container .floating-message .msg-body h3 {
+        text-transform: uppercase;
+        margin-bottom: 10px;
+    }
+
+    body #floating-message-container .floating-message .msg-body p {
+        text-align: justify;
+    }

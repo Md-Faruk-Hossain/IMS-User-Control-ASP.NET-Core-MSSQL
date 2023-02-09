@@ -1,0 +1,44 @@
+﻿@model IEnumerable<spa_core_final_project.Models.Customer>
+@using spa_core_final_project.Models
+@{
+    ViewData["Title"] = "Index";
+    List<Order> orders = ViewBag.orders;
+}
+
+<div class="d-flex justify-content-between mt-2">
+    <h3>Customer List</h3>
+    <a href="@Url.Action("Create","Customers")" id="BtnAddNewCustomer" data-type="loadpage" class="btn btn-outline-primary btn-sm mr-2 mb-2">Add New</a>
+</div>
+@if (Model.Count() > 0)
+{
+    <table class="table table-bordered table-sm">
+        <tr>
+            <th>Customer Name</th>
+            <th>Address</th>
+            <th>Action</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            bool foreignKey = orders?.Where(x => x.CustomerId == item.CustomerId).Count() > 0;
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CustomerName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CustomerAddress)
+                </td>
+                <td>
+                    <a href="@Url.Action("Edit","Customers",new { id=item.CustomerId})" id="BtnEditCustomer" data-type="loadpage" class="btn btn-outline-success btn-sm"><i class="fa fa-edit"></i> Edit</a>
+                    <a href="@Url.Action("Delete","Customers",new { id=item.CustomerId})" id="BtnDeleteCustomer" data-type="loadpage" class="btn btn-outline-danger btn-sm toyDelete @((foreignKey) ? "disabled" : "")"><i class="fa fa-trash"></i> Delete</a>
+                </td>
+            </tr>
+        }
+
+    </table>
+
+}
+else
+{
+    <div class="alert alert-info">No customer found !</div>
+}

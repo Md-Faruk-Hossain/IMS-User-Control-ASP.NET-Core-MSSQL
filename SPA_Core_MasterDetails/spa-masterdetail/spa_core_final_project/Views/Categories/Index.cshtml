@@ -1,0 +1,42 @@
+﻿@model IEnumerable<spa_core_final_project.Models.Category>
+@using spa_core_final_project.Models
+
+@{
+    ViewData["Title"] = "Index";
+    List<Product> products = ViewBag.products;
+}
+
+<div class="d-flex justify-content-between mt-2">
+    <h3>Category List</h3>
+    <a href="@Url.Action("Create","Categories")" id="BtnAddNewCategory" data-type="loadpage" class="btn btn-outline-primary btn-sm mr-2 mb-2">Add New</a>
+</div>
+@if (Model.Count() > 0)
+{
+    <table class="table table-bordered table-sm">
+        <tr>
+            <th>Category Name</th>
+            <th>Action</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            bool foreignKey = products.Where(x => x.CategoryId == item.CategoryId).Count() > 0;
+
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CategoryName)
+                </td>
+                <td>
+                    <a href="@Url.Action("Edit", "Categories", new { id = item.CategoryId })" data-type="loadpage" id="BtnEditCategory" class="btn btn-outline-success btn-sm"><i class="fa fa-edit"></i> Edit</a>
+                    <a href="@Url.Action("Delete","Categories",new { id=item.CategoryId})" data-type="loadpage" id="BtnDeleteCategory" class="btn btn-outline-danger btn-sm toyDelete @((foreignKey) ? "disabled" : "")"><i class="fa fa-trash"></i> Delete</a>
+                </td>
+            </tr>
+        }
+
+    </table>
+}
+else
+{
+    <div class="alert alert-info">No category found !</div>
+}
+
